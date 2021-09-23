@@ -1,0 +1,26 @@
+python 2.7.12 version should be download
+add python to environment variables
+change current directory to C:\Python27\Lib\site-packages
+execute  "python pip install django" command
+execute  "python pip install requests" command (For scrapping)
+it will install django and useful libraries
+
+Install Microsoft Visual C++ Compiler for Python 2.7
+ 
+install lxml 3.3.3 (Python 2.7 suitable version)
+
+
+we will use lxml library  for web scraping and other spectacular stuff.
+
+
+commands
+
+python django-admin.py startproject NBA_DoubleDouble 
+python manage.py migrate
+python manage.py runserver 
+
+python manage.py createsuperuser
+
+
+CREATE SUPERUSER & ADMIN
+
